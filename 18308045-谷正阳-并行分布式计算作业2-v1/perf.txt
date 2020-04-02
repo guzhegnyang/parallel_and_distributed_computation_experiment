@@ -1,0 +1,4 @@
+cache-misses
+cycles
+instructions
+mem-loads
